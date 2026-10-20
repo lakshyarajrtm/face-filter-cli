@@ -1,9 +1,10 @@
 
 
-#folders
+
 .env
 .vscode
+# Ignore macOS system files
+.DS_Store
 
-
-
-#files
+# Ignore your dataset folder
+dataset/
